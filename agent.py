@@ -1,9 +1,10 @@
 import json
 import os
+import streamlit as st
 from datetime import datetime
 from openai import OpenAI
 
-client = OpenAI()
+client = OpenAI(api_key=st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY"))
 
 def load_company():
     with open("company.json", "r") as f:
