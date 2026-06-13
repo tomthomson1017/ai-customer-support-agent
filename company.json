@@ -1,0 +1,10 @@
+{
+  "name": "TechNova",
+  "description": "TechNova is a software company that sells a project management tool called FlowDesk. It helps teams organise tasks, track deadlines, and collaborate remotely.",
+  "faqs": [
+    "Q: How much does FlowDesk cost? A: FlowDesk costs \u00a312 per user per month. There is a free 14-day trial.",
+    "Q: Is there a mobile app? A: Yes, FlowDesk is available on iOS and Android.",
+    "Q: How do I reset my password? A: Go to the login page and click Forgot Password. You will receive an email within 2 minutes.",
+    "Q: Can I cancel anytime? A: Yes, you can cancel your subscription anytime with no penalty."
+  ]
+}
